@@ -1,7 +1,7 @@
 # 🤖 SmartBot Factory
 
-### 🧩 Contexte académique
-Projet universitaire d’intégration d’intelligence artificielle dans une architecture **Spring Boot + Angular**, visant à permettre la **création, la gestion et la recommandation intelligente de chatbots**.  
+### 🧩 Contexte 
+Projet  d’intégration d’intelligence artificielle dans une architecture **Spring Boot + Angular**, visant à permettre la **création, la gestion et la recommandation intelligente de chatbots**.  
 SmartBot Factory combine des technologies de **RAG (Retrieval-Augmented Generation)**, **Azure OpenAI**, et **OpenRouter AI** pour offrir des fonctionnalités avancées d’assistance conversationnelle.
 
 ---
@@ -132,17 +132,7 @@ MySQL / PostgreSQL
 
 ---
 
-## 👥 Équipe du projet
 
-| Nom | Rôle | Responsabilités |
-|------|------|-----------------|
-| **Oussama Hannachi** | Chef de projet / Backend AI Engineer | Intégration IA, services backend, API Azure/OpenRouter |
-| **Maryem Rahmouni** | Frontend Developer | UI/UX Angular, composant Recommandation |
-| **Mounir Gandouli** | DevOps / Database | Docker, configuration réseau, CI/CD |
-| **Tarek Gadhgadhi** | Data Scientist / AI Engineer | Conception du système de recommandation |
-| **Yassine Cherni** | QA / Documentation | Tests, validation académique, documentation technique |
-
----
 
 ## 🧠 Prompts IA utilisés
 
