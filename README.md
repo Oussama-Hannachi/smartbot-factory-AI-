@@ -161,4 +161,4 @@ Ils couvrent :
 ---
 
 ## 🏁 Licence
-Projet académique — © 2025 *SmartBot Factory Team*
+ © 2026 *SmartBot Factory Team*
